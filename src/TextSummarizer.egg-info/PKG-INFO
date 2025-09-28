@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: TextSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/SachinM007/Text-Summerizar-Project
+Author: SachinM007
+Author-email: bsachinmiryala@gmail.com
+License: UNKNOWN
+Description: # TextSummarizer
+        Summarize the text
+        
+Platform: UNKNOWN
